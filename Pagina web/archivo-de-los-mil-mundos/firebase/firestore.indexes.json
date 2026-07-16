@@ -1,0 +1,29 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "historias",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "fandom", "order": "ASCENDING" },
+        { "fieldPath": "título", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "historias",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "universo", "order": "ASCENDING" },
+        { "fieldPath": "título", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "comentarios",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "historiaId", "order": "ASCENDING" },
+        { "fieldPath": "creadoEn", "order": "DESCENDING" }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

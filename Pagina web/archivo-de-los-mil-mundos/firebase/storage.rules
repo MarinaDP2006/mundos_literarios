@@ -1,0 +1,30 @@
+rules_version = '2';
+
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    function esAdmin() {
+      return request.auth != null &&
+        firestore.get(/databases/(default)/documents/usuarios/$(request.auth.uid)).data.rol == 'admin';
+    }
+
+    // Portadas de historias: lectura pública, escritura solo admin.
+    match /covers/{allPaths=**} {
+      allow read: if true;
+      allow write: if esAdmin();
+    }
+
+    // Avatares: cada usuario gestiona el suyo.
+    match /avatars/{uid}/{allPaths=**} {
+      allow read: if true;
+      allow write: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // Fondos, iconos, logos, placeholders: activos estáticos de solo lectura.
+    match /{tipoAsset}/{allPaths=**}
+        where tipoAsset in ['backgrounds', 'icons', 'logos', 'placeholders'] {
+      allow read: if true;
+      allow write: if esAdmin();
+    }
+  }
+}

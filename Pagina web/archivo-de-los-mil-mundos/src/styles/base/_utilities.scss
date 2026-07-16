@@ -1,0 +1,32 @@
+@use '../mixins/effects' as fx;
+
+.ornament {
+  @include fx.ornament;
+}
+
+.text-glow {
+  @include fx.text-glow;
+}
+
+.book-shadow {
+  @include fx.book-shadow;
+}
+
+.parchment {
+  background: linear-gradient(
+    135deg,
+    rgba(201, 168, 76, 0.05) 0%,
+    transparent 50%,
+    rgba(201, 168, 76, 0.03) 100%
+  );
+}
+
+.page-enter {
+  opacity: 0;
+  transform: translateY(8px);
+}
+.page-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.4s ease;
+}

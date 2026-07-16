@@ -1,0 +1,149 @@
+=========================================================
+EL ARCHIVO DE LOS MIL MUNDOS
+Arquitectura del Proyecto
+Angular 20 + Firebase + GitHub
+=========================================================
+
+archivo-de-los-mil-mundos/
+├── docs/
+│ public/
+│   ├── manifest.webmanifest
+│   └── robots.txt
+│
+├── src/
+│
+│   ├── app/
+│   │
+│   │   ├── core/
+│   │   │
+│   │   ├── auth/
+│   │   ├── guards/
+│   │   ├── interceptors/
+│   │   ├── services/
+│   │   ├── config/
+│   │   ├── constants/
+│   │   ├── enums/
+│   │   ├── helpers/
+│   │   ├── utils/
+│   │   └── providers/
+│      
+│   │   ├── shared/
+│   │   │
+│   │   ├── components/
+│   │   │   ├── navbar/
+│   │   │   ├── footer/
+│   │   │   ├── hero/
+│   │   │   ├── cards/
+│   │   │   ├── story-card/
+│   │   │   ├── chapter-card/
+│   │   │   ├── character-card/
+│   │   │   ├── carousel/
+│   │   │   ├── filters/
+│   │   │   ├── search/
+│   │   │   ├── reader/
+│   │   │   ├── breadcrumbs/
+│   │   │   ├── pagination/
+│   │   │   ├── modal/
+│   │   │   ├── dialog/
+│   │   │   ├── toast/
+│   │   │   ├── loading/
+│   │   │   ├── skeleton/
+│   │   │   ├── forms/
+│   │   │   ├── buttons/
+│   │   │   ├── chips/
+│   │   │   ├── badges/
+│   │   │   ├── tags/
+│   │   │   ├── ai-chat/
+│   │   │   └── empty-state/
+│   │   │
+│   │   ├── directives/
+│   │   ├── pipes/
+│   │   ├── validators/
+│   │   ├── interfaces/
+│   │   ├── models/
+│   │   └── types/
+│   │
+│   │   ├── features/
+│   │   │
+│   │   ├── home/
+│   │   ├── explore/
+│   │   ├── stories/
+│   │   ├── story/
+│   │   ├── reader/
+│   │   ├── library/
+│   │   ├── favorites/
+│   │   ├── profile/
+│   │   ├── authentication/
+│   │   ├── search/
+│   │   ├── author/
+│   │   ├── contact/
+│   │   ├── comments/
+│   │   ├── ratings/
+│   │   ├── notifications/
+│   │   ├── recommendations/
+│   │   ├── ai-assistant/
+│   │   ├── community/
+│   │   ├── admin/
+│   │   ├── dashboard/
+│   │   ├── import-stories/
+│   │   └── settings/
+│   │
+│   │   ├── store/
+│   │
+│   │   ├── routes/
+│   │
+│   │   ├── app.config.ts
+│   │   ├── app.routes.ts
+│   │   ├── app.component.ts
+│   │   ├── app.component.html
+│   │   └── app.component.scss
+│
+│   ├── assets/
+│   ├── backgrounds/
+│   │     (fondos añadidos manualmente desde Pinterest)
+│   ├── covers/
+│   ├── icons/
+│   ├── logos/
+│   ├── placeholders/
+│   ├── fonts/
+│   │
+│   └── json/
+│         ├── stories.json
+│         ├── categories.json
+│         ├── fandoms.json
+│         ├── characters.json
+│         ├── tags.json
+│         └── settings.json
+|
+│   ├── environments/
+│
+│   ├── styles/
+│   │
+│   ├── abstracts/
+│   ├── base/
+│   ├── layout/
+│   ├── themes/
+│   ├── variables/
+│   ├── mixins/
+│   ├── animations/
+│   └── main.scss
+│   └── main.ts
+│
+├── firebase/
+│   ├── functions/
+│   ├── firestore.rules
+│   ├── firestore.indexes.json
+│   ├── storage.rules
+│   └── seed/
+│        └── importStories.ts
+│
+├── scripts/
+│
+├── tests/
+
+├── angular.json
+├── firebase.json
+├── package.json
+├── tsconfig.json
+├── README.md
+└── .gitignore

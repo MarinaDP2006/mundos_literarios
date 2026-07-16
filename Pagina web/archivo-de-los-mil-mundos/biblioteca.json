@@ -1,0 +1,443 @@
+{
+  "biblioteca": [
+    {
+      "id": 1,
+      "título": "Entre páginas e historia",
+      "portada": "Página 1: Imagen de tres personas de espaldas (un hombre rubio, una mujer pelirroja y un hombre de cabello oscuro) mirando hacia Londres. El fondo está dividido en verano e invierno.",
+      "sinopsis": "Maxine Hartley (Max), recién llegada a la Universidad de Londres, se ve envuelta en una encrucijada emocional entre dos presencias constantes en su vida: Josh Ridley, el nuevo bibliotecario de St. John’s, amable y reservado, y Tom Shades, un profesor de literatura comparada y filosofía con un aire de otra época. A medida que el invierno avanza sobre la ciudad, Max debe decidir si tomar las riendas de su vida o dejar que el destino elija por ella.",
+      "fandom": "Original",
+      "universo": "Realista / Contemporáneo",
+      "categoría": "Original",
+      "clasificación_edad": "Apto",
+      "estado": "Completa",
+      "personajes_principales": [
+        "Maxine 'Max' Hartley",
+        "Josh Ridley",
+        "Tom Shades"
+      ],
+      "pareja_principal": "Max x Josh Ridley",
+      "personajes_secundarios": [
+        "Marie Lake",
+        "Jack Hanson",
+        "Alex (ayudante de la biblioteca)",
+        "Dr. James",
+        "Sarah",
+        "Chloe"
+      ],
+      "capítulos": 5,
+      "índice": [
+        "Prólogo",
+        "Capítulo I – Verano",
+        "Capítulo II – Invierno",
+        "Capítulo III – Mi vida entera",
+        "Epílogo",
+        "Agradecimientos"
+      ],
+      "etiquetas": [
+        "Romance universitario",
+        "Triángulo amoroso",
+        "Londres",
+        "Superación personal",
+        "Drama"
+      ],
+      "hashtags": [
+        "#Romance",
+        "#Libros",
+        "#Destino",
+        "#MaxYJosh"
+      ],
+      "géneros": [
+        "Romance",
+        "Drama contemporáneo"
+      ],
+      "ambientación": "Londres contemporáneo (Camden, Regent's Park, Universidad de Londres).",
+      "cronología": "Junio a Septiembre (Verano), Diciembre (Invierno), Futuro (Roma).",
+      "localizaciones": [
+        "Biblioteca de St. John’s",
+        "Camden",
+        "Regent's Park",
+        "Venecia (viaje mencionado)",
+        "Roma (Final)"
+      ],
+      "curiosidades": "Josh tiene una prótesis en la pierna debido a un accidente de coche donde murió su exnovia. Max perdió a su madre por cáncer a los 16 años.",
+      "notas_de_autora": "Dedicado a su madre por enseñarle a creer en las historias. Agradece a sus amigos por celebrar cada avance.",
+      "frases_destacadas": [
+        "Las coincidencias eran un recurso barato de las novelas románticas.",
+        "Hablaste de los silencios entre las líneas. De cómo a veces lo no dicho duele más que las palabras.",
+        "Primero sobrevive a la prótesis. Luego hablamos de puentes."
+      ],
+      "relaciones": "Obra independiente dentro del universo realista de la autora."
+    },
+    {
+      "id": 2,
+      "título": "Infinite Game",
+      "portada": "Página 1: Siluetas de un hombre y una mujer de espaldas, dándose la mano en un entorno oscuro y brumoso.",
+      "sinopsis": "Tras la derrota inicial ante Thanos, los supervivientes en la Tierra intentan asimilar la pérdida. Loki, habiendo sobrevivido al estrangulamiento de Thanos al entregar el Teseracto, se refugia en el complejo de los Vengadores. Allí desarrolla una relación compleja con Natasha Romanoff. Juntos deberán enfrentar no solo el trauma del pasado, sino también nuevas misiones temporales y amenazas como Gorr el Carnicero de Dioses, mientras buscan un nuevo comienzo lejos de las guerras cósmicas.",
+      "fandom": "Marvel Cinematic Universe (MCU)",
+      "universo": "Marvel / Post-Endgame (Línea alternativa)",
+      "categoría": "Fanfic",
+      "clasificación_edad": "+18",
+      "estado": "Completa",
+      "personajes_principales": [
+        "Loki Laufeyson",
+        "Natasha Romanoff"
+      ],
+      "pareja_principal": "Loki x Natasha",
+      "personajes_secundarios": [
+        "Thor Odinson",
+        "Bruce Banner",
+        "Steve Rogers",
+        "Tony Stark",
+        "Yelena Belova",
+        "Valkiria",
+        "Gorr",
+        "Gamora",
+        "Scott Lang",
+        "Jane Foster"
+      ],
+      "capítulos": 17,
+      "índice": [
+        "Capítulo 1 al 17",
+        "Europa - 2026"
+      ],
+      "etiquetas": [
+        "Romanogers (mención)",
+        "Loki y Natasha",
+        "Viaje en el tiempo",
+        "Venganza",
+        "Escenas explícitas"
+      ],
+      "hashtags": [
+        "#Marvel",
+        "#Loki",
+        "#BlackWidow",
+        "#InfiniteGame"
+      ],
+      "géneros": [
+        "Acción",
+        "Romance",
+        "Ciencia Ficción"
+      ],
+      "ambientación": "Complejo de los Vengadores, Asgard (pasado), Sakaar, Noruega, Copenhague.",
+      "cronología": "2018 (Post-Infinity War) hasta 2026 (Vida en Europa).",
+      "localizaciones": [
+        "Nueva York",
+        "Nueva Asgard",
+        "Reino de Gorr (Anti-Vida)",
+        "Copenhague"
+      ],
+      "curiosidades": "Loki utiliza sus ilusiones para permitir que la familia de Clint Barton se despida de él. Garrett Denali aparece como un crossover o referencia en los capítulos de transición.",
+      "notas_de_autora": "Contiene advertencias por escenas fuertes, lenguaje y contenido explícito (Pág. 65).",
+      "frases_destacadas": [
+        "Soy la única verdad que he elegido en milenios de mentiras.",
+        "El miedo no es un crimen.",
+        "Luchamos juntos. Esta vez, papá, luchamos juntos."
+      ],
+      "relaciones": "Forma parte de la saga Marvel de la autora junto con 'The Green Witch'."
+    },
+    {
+      "id": 3,
+      "título": "Legendary Secret Lovers",
+      "portada": "Página 1: Un guerrero de cabello largo y una elfa con yelmo mirándose fijamente con un castillo al fondo.",
+      "sinopsis": "Lira, hija de Thranduil y hermana de Legolas, decide unirse a la Comunidad del Anillo para representar a su pueblo y buscar alianzas. En su viaje a través de Rohan, conoce a Éomer, Mariscal de la Marca. Entre batallas épicas como el Abismo de Helm y los Campos del Pelennor, surge un amor prohibido entre una elfa inmortal y un hombre mortal. Lira deberá enfrentarse a la frialdad de su padre y decidir si está dispuesta a renunciar a la eternidad por una vida junto al Rey de Rohan.",
+      "fandom": "Lord of the Rings (El Señor de los Anillos)",
+      "universo": "Tierra Media",
+      "categoría": "Fanfic",
+      "clasificación_edad": "+18",
+      "estado": "Completa",
+      "personajes_principales": [
+        "Lira (Hija de Thranduil)",
+        "Éomer"
+      ],
+      "pareja_principal": "Éomer x Lira",
+      "personajes_secundarios": [
+        "Legolas",
+        "Aragorn",
+        "Gimli",
+        "Gandalf",
+        "Théoden",
+        "Éowyn",
+        "Thranduil",
+        "Arwen",
+        "Galadriel"
+      ],
+      "capítulos": 10,
+      "índice": [
+        "Prólogo",
+        "La llegada a Edoras",
+        "Miradas silenciosas",
+        "Regalos",
+        "La batalla del Abismo de Helm",
+        "La revelación",
+        "Alianza fortalecida",
+        "El Único",
+        "Mi Eternidad",
+        "Declaración pública",
+        "Final"
+      ],
+      "etiquetas": [
+        "Elfos",
+        "Rohan",
+        "Mortalidad vs Inmortalidad",
+        "Guerra del Anillo",
+        "Romance Épico"
+      ],
+      "hashtags": [
+        "#LOTR",
+        "#Eomer",
+        "#LegolasSister",
+        "#MiddleEarth"
+      ],
+      "géneros": [
+        "Fantasía Épica",
+        "Romance"
+      ],
+      "ambientación": "Rivendell, Edoras, Abismo de Helm, Minas Tirith, Bosque Negro.",
+      "cronología": "Octubre 3018 T.E. hasta el fin de la Tercera Edad y el reinado de Aremir.",
+      "localizaciones": [
+        "Meduseld",
+        "Cuernavilla",
+        "Camino de los Muertos",
+        "Valinor (mencionado)"
+      ],
+      "curiosidades": "Lira lleva un emblema de la Casa de Éorl y una pulsera de crin de caballo. Legolas es extremadamente protector y amenaza a Éomer con arrancarle las orejas si la lastima.",
+      "notas_de_autora": "No hay notas específicas, pero el texto incluye advertencias de contenido explícito.",
+      "frases_destacadas": [
+        "La precaución es el miedo con un disfraz bonito.",
+        "Prefiero un siglo de felicidad junto a Éomer que una eternidad de vacío en estos bosques.",
+        "El amor no es la ausencia de tormenta, Lira."
+      ],
+      "relaciones": "Comparte universo y personajes con 'La luz del rey'."
+    },
+    {
+      "id": 4,
+      "título": "Dayan Denali",
+      "portada": "Página 1: Una mujer joven de cabello oscuro en un bosque nevado bajo la luz de la luna.",
+      "sinopsis": "La vida de Dayan cambia tras un trágico accidente de tráfico donde mueren sus amigos. Es rescatada por la familia Denali y descubre una verdad oculta: es una híbrida, mitad humana y mitad vampiro. Bajo la tutela de Garrett y Kate, Dayan debe aprender a controlar sus nuevos dones —influencia, velocidad y escudo físico— mientras los Volturi acechan. En medio del conflicto, su amistad con Jacob Black se pone a prueba y Dayan debe elegir su lugar en un mundo de leyes ancestrales y guerras entre clanes.",
+      "fandom": "Twilight Saga (Crepúsculo)",
+      "universo": "Twilight Universe",
+      "categoría": "Fanfic",
+      "clasificación_edad": "Apto",
+      "estado": "Completa",
+      "personajes_principales": [
+        "Dayana 'Dayan' Denali (Miller)",
+        "Garrett",
+        "Jacob Black"
+      ],
+      "pareja_principal": "Familia Denali (Vínculo padre-hija con Garrett)",
+      "personajes_secundarios": [
+        "Kate",
+        "Tanya",
+        "Eleazar",
+        "Carmen",
+        "Jonathan (Padre)",
+        "Renesmee Cullen",
+        "Bella y Edward Cullen",
+        "Carlisle Cullen",
+        "Aro (Volturi)"
+      ],
+      "capítulos": 17,
+      "índice": [
+        "Parte I al XI",
+        "El Amanecer de una Nueva Era",
+        "Dos años después",
+        "Europa - 2026"
+      ],
+      "etiquetas": [
+        "Vampiros",
+        "Hombres lobo",
+        "Híbridos",
+        "Denali Clan",
+        "Volturi"
+      ],
+      "hashtags": [
+        "#Twilight",
+        "#Denali",
+        "#Vampiros",
+        "#JacobBlack"
+      ],
+      "géneros": [
+        "Fantasía",
+        "Acción",
+        "Drama"
+      ],
+      "ambientación": "Forks, La Push, Alaska (Denali), España (Final).",
+      "cronología": "Inicia en junio, abarca la transformación y culmina en agosto de 2024/2026.",
+      "localizaciones": [
+        "Casa Denali",
+        "Gasolinera abandonada",
+        "Reserva de La Push",
+        "Casa Cullen"
+      ],
+      "curiosidades": "Dayan descubre que Garrett tiene el don de transformarse en animal (lobo negro) durante su noche de bodas con Kate. Su padre biológico, John, era un miembro retirado de la guardia Vulturi.",
+      "notas_de_autora": "La historia explora la lealtad familiar por encima de los instintos.",
+      "frases_destacadas": [
+        "Porque mereces vivir.",
+        "Si te metes o haces daño a alguno de los nuestros, se lo haces a todos.",
+        "Eres el chupasangre más raro que vi."
+      ],
+      "relaciones": "Historia independiente dentro del universo Twilight de la autora."
+    },
+    {
+      "id": 5,
+      "título": "La luz del rey",
+      "portada": "Página 1: Primer plano del perfil de un elfo rubio (Thranduil) con una corona de espinas/ramas.",
+      "sinopsis": "Mara, hija de Galadriel y princesa de Arathorn, huye de su reino para evitar un matrimonio forzado y termina en el Bosque Negro. Allí es acogida por el rey Thranduil, quien inicialmente sospecha de su origen. Sin embargo, tras enfrentarse a una invasión orca liderada por la propia madre de Mara, Galadriel, ambos elfos descubren una conexión profunda. Mara debe decidir entre su lealtad a la luz de su linaje o el amor por el rey que le devolvió la esperanza.",
+      "fandom": "Lord of the Rings / The Hobbit",
+      "universo": "Tierra Media (Línea alternativa)",
+      "categoría": "Fanfic",
+      "clasificación_edad": "+18",
+      "estado": "Completa",
+      "personajes_principales": [
+        "Mara (Maralia)",
+        "Thranduil Oropherion"
+      ],
+      "pareja_principal": "Thranduil x Mara",
+      "personajes_secundarios": [
+        "Legolas",
+        "Taruiel (Tauriel)",
+        "Galadriel",
+        "Aragorn",
+        "Gandalf",
+        "Trioth de Arathorn",
+        "Mirana"
+      ],
+      "capítulos": 12,
+      "índice": [
+        "Presentación",
+        "We are one soul",
+        "La revelación",
+        "Ella es mía",
+        "Epílogo"
+      ],
+      "etiquetas": [
+        "Thranduil",
+        "Mirkwood",
+        "Traición familiar",
+        "Guerra",
+        "Romance"
+      ],
+      "hashtags": [
+        "#Thranduil",
+        "#TheHobbit",
+        "#ElfRomance",
+        "#MiddleEarth"
+      ],
+      "géneros": [
+        "Fantasía Épica",
+        "Romance",
+        "Drama"
+      ],
+      "ambientación": "Bosque Negro (Mirkwood), Rivendell, La Comarca.",
+      "cronología": "Tercera Edad (durante la preparación de la Guerra del Anillo).",
+      "localizaciones": [
+        "Palacio de Thranduil",
+        "Cataratas de Mirkwood",
+        "La Comarca"
+      ],
+      "curiosidades": "Thranduil golpea a Mara en la cara al inicio por una falta de respeto, pero luego se redime salvándola en batalla. Galadriel es retratada con una ambición oscura que busca la caída de Thranduil.",
+      "notas_de_autora": "Contiene escenas de sexo explícito y lenguaje adulto (Pág. 65).",
+      "frases_destacadas": [
+        "Un rey como tú merece más que sólo una mujer.",
+        "No me perderás... estoy aquí, ahora, contigo.",
+        "Mirkwood tendrá una nueva reina a la que amar."
+      ],
+      "relaciones": "Conectada con 'Legendary Secret Lovers' por el linaje de Thranduil y Legolas."
+    },
+    {
+      "id": 6,
+      "título": "The Green Witch",
+      "portada": "Página 1: Una mujer joven con ojos verdes brillantes y energía eléctrica verde en sus manos. Sobre ella, Spider-Man cuelga boca abajo.",
+      "sinopsis": "Lexandra 'Lex' Laufeyson es la hija secreta de Loki y la sanadora Sigyn. Criada en una cámara de bolsillo en Asgard para protegerla de la ira de Odín, Lex desarrolla un poder inmenso sobre el hielo y el seiðr. Su existencia sale a la luz durante el regreso de Hela y la destrucción de Asgard. Tras perder a su padre en Titán a manos de Thanos, Lex se refugia en la Tierra con Peter Parker. Juntos buscarán una forma de revertir el Chasquido y enfrentar a Gorr, el Carnicero de Dioses.",
+      "fandom": "Marvel Cinematic Universe (MCU)",
+      "universo": "Marvel Universe / Línea de tiempo 'Infinite Game'",
+      "categoría": "Fanfic",
+      "clasificación_edad": "Apto",
+      "estado": "Completa",
+      "personajes_principales": [
+        "Lexandra 'Lex' Laufeyson",
+        "Peter Parker (Spider-Man)",
+        "Loki"
+      ],
+      "pareja_principal": "Lexandra x Peter Parker",
+      "personajes_secundarios": [
+        "Thor",
+        "Sigyn",
+        "Astrid",
+        "Sif",
+        "Natasha Romanoff",
+        "Tony Stark",
+        "Thanos",
+        "Gorr",
+        "Valquiria"
+      ],
+      "capítulos": 35,
+      "índice": [
+        "ACTO I — LA MÁSCARA",
+        "ACTO II — AÑOS OCULTOS",
+        "ACTO III — RAGNAROK",
+        "ACTO IV — LA DIVERGENCIA",
+        "ACTO V — INFINITY WAR",
+        "ACTO VI — ENDGAME",
+        "ACTO VII — LOVE AND THUNDER"
+      ],
+      "etiquetas": [
+        "Hija de Loki",
+        "Magia de hielo",
+        "Spider-Man romance",
+        "Endgame",
+        "Supervivencia"
+      ],
+      "hashtags": [
+        "#SpiderMan",
+        "#LokiDaughter",
+        "#GreenWitch",
+        "#MarvelFanfic"
+      ],
+      "géneros": [
+        "Acción",
+        "Aventura",
+        "Romance",
+        "Fantasía"
+      ],
+      "ambientación": "Asgard, Sakaar, Queens (Nueva York), Nuevo Asgard (Noruega).",
+      "cronología": "2013 (Nacimiento/Cámara) hasta 2025 (Eventos de Love and Thunder).",
+      "localizaciones": [
+        "Cámara de bolsillo",
+        "Sanatorio de Asgard",
+        "Arena de Sakaar",
+        "Titán",
+        "Nueva Asgard",
+        "Queens, Nueva York"
+      ],
+      "curiosidades": "Lexandra accidentalmente paraliza a su padre con una lanza de hielo durante la batalla contra Gorr. Heimdall conocía su existencia desde el principio pero guardó el secreto.",
+      "notas_de_autora": "Explora el crecimiento de Lex desde una niña asustada a una guerrera que acepta su herencia Jotun.",
+      "frases_destacadas": [
+        "Tú también eres azul por dentro.",
+        "No necesito que me protejas. Quiero entender. Quiero saber quién soy.",
+        "Has esperado el tiempo justo."
+      ]}
+  ],
+  "universos unicos": [
+    {
+      "nombre": "Marvel",
+      "historias": [
+        "Infinite Game",
+        "The Green Witch"
+      ]
+    },
+    {
+      "nombre": "Saga de la Tierra Media",
+      "historias": [
+        "Legendary Secret Lovers",
+        "La luz del rey"
+      ]
+    }
+  ],
+  "universos": [
+    "Marvel Cinematic Universe",
+    "Tierra Media (Tolkien)",
+    "Twilight Universe",
+    "Universo Original"
+  ]
+}

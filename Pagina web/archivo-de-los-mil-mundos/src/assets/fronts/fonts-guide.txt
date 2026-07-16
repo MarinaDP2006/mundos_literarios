@@ -1,0 +1,8 @@
+Add .ttf or .woff2 files for 'Cinzel' (Titles) and 'Roboto' (Body) here. 
+Update styles.scss with:
+
+@font-face { 
+    font-family: 'NinaiTitle'; 
+    src: url('assets/fonts/cinzel.woff2') 
+    format('woff2'); 
+}

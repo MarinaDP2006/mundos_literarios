@@ -1,0 +1,11 @@
+@use '../variables/breakpoints' as bp;
+
+.contenedor {
+  max-width: bp.$max-content-width;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.contenido-con-navbar {
+  padding-top: bp.$navbar-height;
+}

@@ -1,0 +1,52 @@
+rules_version = '2';
+
+/**
+ * Reglas base de Firestore. Se amplían con detalle en la Fase 3 (Firebase):
+ * lectura pública de historias, escritura solo para admin, y datos de
+ * usuario/comentarios restringidos al propio uid o admin.
+ */
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function estaAutenticado() {
+      return request.auth != null;
+    }
+
+    function esAdmin() {
+      return estaAutenticado() &&
+        get(/databases/$(database)/documents/usuarios/$(request.auth.uid)).data.rol == 'admin';
+    }
+
+    match /historias/{historiaId} {
+      allow read: if true;
+      allow write: if esAdmin();
+    }
+
+    match /sagas/{sagaId} {
+      allow read: if true;
+      allow write: if esAdmin();
+    }
+
+    match /usuarios/{uid} {
+      allow read: if estaAutenticado() && (request.auth.uid == uid || esAdmin());
+      allow create: if estaAutenticado() && request.auth.uid == uid;
+      allow update: if estaAutenticado() && (request.auth.uid == uid || esAdmin());
+    }
+
+    match /comentarios/{comentarioId} {
+      allow read: if true;
+      allow create: if estaAutenticado();
+      allow delete: if estaAutenticado() &&
+        (resource.data.usuarioUid == request.auth.uid || esAdmin());
+    }
+
+    match /valoraciones/{valoracionId} {
+      allow read: if true;
+      allow create, update: if estaAutenticado();
+    }
+
+    match /notificaciones/{notifId} {
+      allow read, update: if estaAutenticado() && resource.data.usuarioUid == request.auth.uid;
+    }
+  }
+}

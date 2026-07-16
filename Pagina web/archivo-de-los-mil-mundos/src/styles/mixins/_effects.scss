@@ -1,0 +1,52 @@
+@mixin text-glow {
+  text-shadow:
+    0 0 20px rgba(201, 168, 76, 0.4),
+    0 0 40px rgba(201, 168, 76, 0.2);
+}
+
+@mixin book-shadow {
+  box-shadow:
+    -4px 4px 20px rgba(0, 0, 0, 0.8),
+    inset -3px 0 8px rgba(0, 0, 0, 0.5);
+}
+
+@mixin ornament {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: var(--gold-600);
+
+  &::before,
+  &::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--gold-600), transparent);
+  }
+}
+
+@mixin truncar-lineas($lineas: 2) {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: $lineas;
+  -webkit-box-orient: vertical;
+}
+
+@mixin boton-dorado {
+  background: linear-gradient(135deg, var(--gold-400), var(--gold-600));
+  color: var(--primary-foreground);
+  border: none;
+  border-radius: 4px;
+  font-family: var(--font-display);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 16px rgba(201, 168, 76, 0.25);
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(201, 168, 76, 0.35);
+  }
+}

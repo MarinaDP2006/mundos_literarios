@@ -1,0 +1,13 @@
+$bp-sm: 640px;
+$bp-md: 768px;
+$bp-lg: 1024px;
+$bp-xl: 1280px;
+
+$max-content-width: 1400px;
+$navbar-height: 64px;
+
+@mixin desde($breakpoint) {
+  @media (min-width: $breakpoint) {
+    @content;
+  }
+}

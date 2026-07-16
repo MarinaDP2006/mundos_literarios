@@ -1,0 +1,10 @@
+// Tipografías del prototipo Figma: Cinzel (display/decorativa) + EB Garamond (serif de lectura).
+:root {
+  --font-serif: 'EB Garamond', Georgia, serif;
+  --font-display: 'Cinzel', 'Times New Roman', serif;
+  --font-decorative: 'Cinzel Decorative', 'Cinzel', serif;
+}
+
+$font-serif: var(--font-serif);
+$font-display: var(--font-display);
+$font-decorative: var(--font-decorative);
