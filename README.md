@@ -26,7 +26,7 @@ Todo el contenido narrativo proviene de `src/assets/json/biblioteca.json`, fiel 
 El sistema visual (paleta esmeralda/oro, tipografías Cinzel + EB Garamond, estética de "grimorio") proviene del prototipo Figma adjunto y se ha volcado fielmente en `src/styles/variables/_colors.scss` y `_typography.scss`.
 
 ## Fases de generación
-1. **Arquitectura** ✅ (este commit) — estructura completa, sin componentes de UI.
+1. **Arquitectura** — estructura completa, sin componentes de UI.
 2. **Componentes reutilizables** — Navbar, Footer, StoryCard, Reader, Hero, Sidebar, Modal, Toast, Search, etc.
 3. **Firebase** — Auth, Firestore, Storage, Guards, Interceptors, Signals.
 4. **Página Home**.
